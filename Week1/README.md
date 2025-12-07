@@ -39,17 +39,27 @@ This week builds your mental model so everything later (memory, performance, ker
 Read: Sections 1.1–1.3  
 **Focus**: SIMT execution model, thread/block/grid hierarchy, host vs device
 
+**Stanford CS149 — GPU Architecture & Programming Model** (Kayvon Fatahalian)  
+[https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/](https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/)  
+Video: [https://www.youtube.com/watch?v=gNyEHuuFdPQ](https://www.youtube.com/watch?v=qQTDF0CBoxE) 
+**Focus**: Warps, SMs, memory hierarchy basics, what makes code "GPU-friendly"
 
 ### **2. GPU in Practice**
 
-**Stanford CS149 — GPU Architecture & Programming Model** (Kayvon Fatahalian)  
-[https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/](https://gfxcourses.stanford.edu/cs149/fall24/lecture/gpuarch/)  
-Video: [https://www.youtube.com/watch?v=gNyEHuuFdPQ](https://www.youtube.com/watch?v=gNyEHuuFdPQ)  
-**Focus**: Warps, SMs, memory hierarchy basics, what makes code "GPU-friendly"
+
+**Stanford CS231n — Hardware/Software Interface (Lecture 15)**
+
+Slides & Video:
+[https://www.youtube.com/watch?v=WGf1f2HbJpE](https://www.youtube.com/watch?v=WGf1f2HbJpE)
+
+Focus on:
+
+* GPU in the modern AI stack
+* How frameworks like PyTorch map operations to hardware
 
 **Mark Harris — "An Even Easier Introduction to CUDA"**  
 [https://developer.nvidia.com/blog/even-easier-introduction-cuda/](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)  
-Read: Full post (15 mins)  
+Read: Full post  
 **Focus**: First complete CUDA example walkthrough (you don't need to code yet)
 
 
